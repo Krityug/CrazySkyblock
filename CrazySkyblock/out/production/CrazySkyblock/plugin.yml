@@ -1,0 +1,16 @@
+name: Crazy_Skyblock
+version: 1.0.0
+main: me.starboy.util.Main
+commands:
+  panel:
+    description: Opens your Account Manager for your personal Profile and Settings.
+    usage: /panel
+  emergency:
+    description: In case your hungar level goes down and you need urgent food supplies (Only can be used by a Premium Ranked Player).
+    usage: /emergency
+  island:
+    description: Opens your Island Manager to control your island.
+    usage: /island
+  setupskyblock:
+    description: Only for admin to access the setup mode of our Skyblock System.
+    usage: /setupskyblock
